@@ -1,7 +1,7 @@
 // Canvasサイズ
 var CAN_SIZE = 512;
 // Live2Dモデル定義
-var MODEL_PATH = "sample/Motion/assets/haru/"
+var MODEL_PATH = "sample/Motion/assets/haru/";
 var IMAGE_PATH = "assets/haru/";
 var MODEL_DEFINE = {
     "type":"Live2D Model Setting",
